@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://iiverst.github.io/sitemap.html.gz
+Sitemap: https://iiverst.github.io/app/sitemap.html.gz
+Sitemap: https://iiverst.github.io/assets/sitemap.html.gz
+Sitemap: https://iiverst.github.io/css/sitemap.html.gz
+Sitemap: https://iiverst.github.io/includes/sitemap.html.gz
+Sitemap: https://iiverst.github.io/item/sitemap.html.gz
+Sitemap: https://iiverst.github.io/src/sitemap.html.gz
